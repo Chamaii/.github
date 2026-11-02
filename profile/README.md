@@ -1,5 +1,5 @@
 <div align="center">
-
+    
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Resnow-Team/.github/main/assets/banner-dark.svg">
   <img alt="ChamaAi — marketplace de serviços de mão de obra autônoma no Brasil" src="https://raw.githubusercontent.com/Resnow-Team/.github/main/assets/banner-light.svg" width="100%">
